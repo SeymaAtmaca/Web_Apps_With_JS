@@ -1,0 +1,82 @@
+body {
+    background: black;
+  }
+  
+  .clock {
+    position: relative;
+    text-align: center;
+    color: #e98208;
+    font-size: 60px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 7px;
+  }
+  
+  .text1 {
+    position: relative;
+    text-align: center;
+    color: #e98208;
+    font-size: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 7px;
+  }
+  
+  .text2 {
+    position: relative;
+    text-align: center;
+    color: #e98208;
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 7px;
+    margin-right: 100px;
+    margin-left: 100px;
+  }
+  
+   img {
+       margin-top: 120px;
+       width: 17%;
+  }
+
+  .button {
+    position: relative;
+    text-align: center;
+    background-color: black;
+    width: 10px;
+    height: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+  }
+
+  .label {
+    position: relative;
+    text-align: center;
+    color: #e98208;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 40px;
+  }
+
+  .radio {
+    
+    padding-left: 30px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+
+
+  .notepad {
+    margin: 0 auto;
+    position: center;
+    top: 300px;
+    background-color: #e6dcdc; /* not defteri kağıdı rengi */
+    /* background-image: url('https://i.imgur.com/w3Yq3XO.png'); not defteri kağıdı görüntüsü */
+    background-repeat: repeat; /* tekrarlanan arka plan görüntüsü */
+    border: 1px solid #ccc; /* çerçeve rengi ve kalınlığı */
+    border-radius: 5px; /* kenar yuvarlatma */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* gölgelendirme */
+    padding: 20px; /* içeriğin çerçeveden boşluğu */
+    width: 1200px; /* çerçevenin genişliği */
+    min-height: 800px;
+
+  }
+  
+  
