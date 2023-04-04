@@ -5,6 +5,6 @@ This repo was created for web programming
 <h1>Technologies</h1>
 <ul>
   <li>JavaScript</li>
-  <li>HTML </li>
+  <li>HTML</li>
   <li>CSS </li>
 </ul>
